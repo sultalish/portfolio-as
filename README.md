@@ -1,2 +1,1 @@
-# portfolio-as
-Alisher Sultangazin's Portfolio
+# Alisher Sultangazin's Portfolio
