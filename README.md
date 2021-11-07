@@ -1,2 +1,2 @@
 # Alisher Sultangazin's Portfolio
-sultalish.netlify.app
+https://sultalish.netlify.app/
