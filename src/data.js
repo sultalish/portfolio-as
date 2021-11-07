@@ -6,6 +6,17 @@ export const projects = [
         image: "./simplelist.jpg",
         link: "https://cop4331-project.web.app/",
     },
+    {
+        title: "Simple Unix Shell",
+        subtitle: "C Language",
+        description: "A simple implementation of a unix shell",
+        image: "./mysh-shell.jpg",
+        link: "https://github.com/sultalish/mysh-shell-c",
+    },
 ];
+
+export const languages = ["C/C++", "Java", "Swift/SwiftUI", "Python", "JavaScript", "TypeScript", "React", "React Native", "HTML/CSS",]
+
+export const tools = ["Git", "Firebase/Firestore", "AWS", "VSCode", "Eclipse", "CocoaPods", "Node.js", "Atom"]
 
 export default projects
