@@ -7,9 +7,16 @@ export const projects = [
         link: "https://cop4331-project.web.app/",
     },
     {
+        title: "Tranquest Cloud",
+        subtitle: "React.js, Javascript, HTML/CSS, Firebase/Firestore",
+        description: "A task manager project with global chat feature me and my team created for a KnightHacks Hackathon. You can find more info on my github repository.",
+        image: "./tranquest.png",
+        link: "https://tranquest-cloud.web.app/",
+    },
+    {
         title: "Simple Unix Shell",
         subtitle: "C Language",
-        description: "A simple implementation of a unix shell",
+        description: "A simple implementation of a unix shell.",
         image: "./mysh-shell.jpg",
         link: "https://github.com/sultalish/mysh-shell-c",
     },
