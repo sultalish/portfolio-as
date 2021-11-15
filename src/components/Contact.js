@@ -6,7 +6,7 @@ export default function Contact() {
             <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
                 <div className="px-6 mt-4 lg:mt-0">
                     <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-                        Hire Me
+                        Contact Me
                     </h1>
                     <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                         EMAIL
